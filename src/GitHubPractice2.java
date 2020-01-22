@@ -9,5 +9,6 @@
  * @author WILL PC
  */
 public class GitHubPractice2 {
+    System.out.println("Pulled file");
     
 }
